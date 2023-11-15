@@ -20,8 +20,8 @@ This project provides a simple script (`start_voice.py`) that plays a startup vo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/InemesitMatthew/startup-voice.git
-   cd startup-voice
+   git clone https://github.com/InemesitMatthew/StartUp_Voice.git
+   cd StartUp_Voice
    ```
 
 2. **Install Required Packages:**
@@ -64,5 +64,10 @@ Feel free to contribute by opening issues or pull requests.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Notice
+If at any point you run into issues be sure to reach out to me on my WhatsApp Tv +234 813 820 8480.
+The script was an idea I came up with and implemented. It is far from finished or being perfect so if you have any suggestions or ideas please reach out and let's work it out.
+Arigato / Thank You.
 
 ---
