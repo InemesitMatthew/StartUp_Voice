@@ -8,6 +8,8 @@ This project provides a simple script (`start_voice.py`) that plays a startup vo
 
 - **Regular Voice:** Plays a predefined voice message based on the time of day (morning, afternoon, night).
 
+- **Custom Voice: Users can provide their own voice recording to be played at startup.
+
 ## Prerequisites
 
 - Python 3.x
